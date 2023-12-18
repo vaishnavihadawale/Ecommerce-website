@@ -49,7 +49,7 @@ export const MyOrder = () => {
               <h2>{buyproduct.quantity}</h2>
             </div>
             <div className="cart-container">
-              <h2>{buyproduct.price}</h2>
+              <h2>{buyproduct.price*buyproduct.quantity}</h2>
             </div>
           </section>
         );

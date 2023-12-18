@@ -483,6 +483,15 @@
       "cartby": "vaishnavikanase@gmail.com",
       "quantity": "1",
       "size": "XXl"
+    },
+    {
+      "image": "assets/kurta-sets/kurta-set-4.webp",
+      "Productname": "Avasa",
+      "price": "1200",
+      "quantity": "3",
+      "cartby": "vaishnavikanase@gmail.com",
+      "productId": "4",
+      "id": 4
     }
   ],
   "purchasehistoryofuser": [
@@ -507,6 +516,17 @@
       "address": "Pune",
       "customername": "Vaishnavi Raj Kanase",
       "id": 2
+    },
+    {
+      "image": "assets/kurta-sets/kurta-set-4.webp",
+      "Productname": "Avasa",
+      "price": "1200",
+      "quantity": "3",
+      "cartby": "vaishnavikanase@gmail.com",
+      "productId": "4",
+      "address": "Pune",
+      "customername": "Vaishnavi Raj Kanase",
+      "id": 3
     }
   ]
 }
