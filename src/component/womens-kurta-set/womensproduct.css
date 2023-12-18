@@ -1,0 +1,23 @@
+#main-section-data {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    flex-wrap: wrap;
+    margin-top: 50px;
+  }
+  #main-section-data .inner-container {
+    margin: 20px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 450px;
+    width: 300px;
+    border: 1px solid rgb(223, 219, 219);
+    border-radius: 20px;
+  }
+  #main-section-data .inner-container img{
+  width: 250px;
+  height: 350px;
+  }
+  

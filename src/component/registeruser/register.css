@@ -1,0 +1,58 @@
+.registerContainer{
+    margin:10% auto;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.cssToRegisterForm{
+    height: 450px;
+    border-radius: 3px;
+    
+    width: 25%;
+    background-color:rgb(171, 194, 187);
+    margin:auto;
+    padding: 20px;
+    /* padding: 0px 10px 10px 15px; */
+}
+button{
+    color:white;
+    background-color:black;
+    margin-right: 5px;
+    text-align: center;
+    padding: 12px;
+    margin: 5px;
+    width: 308px;
+    border-radius: 4px;
+    margin-top: 15px;
+    border: none;
+}
+.cssToRegisterHeading{
+    text-align: center;
+    margin: 10px 0;
+}
+
+body{
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+}
+
+ input[type="text"]{
+    width: 308px;
+    margin:5px 5px 10px 5px;
+    border-radius: 4px;
+    padding: 5px;
+    border: none;
+}
+.cssToLabel{
+    font-size: 15px;
+    margin-top: 5px;
+  
+}
+.cssToRegisterForm h5{
+    margin-bottom: 5px;
+}

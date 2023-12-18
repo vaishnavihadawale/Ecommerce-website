@@ -1,0 +1,12 @@
+#purchase-section{
+   
+    margin: 50px 200px;
+}
+#purchase-section .purchase-product img{
+width: 250px;
+height: 350px;
+border-radius: 10px;
+}
+#purchase-section  input{
+    border: 1px solid grey;
+}

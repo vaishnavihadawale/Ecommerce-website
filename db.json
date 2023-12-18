@@ -1,0 +1,512 @@
+{
+  "featuredproduct": [
+    {
+      "id": 1,
+      "brandname": "ENDEAVOUR",
+      "price": "499",
+      "image": "/assets/featured-product/sweatshirt.jpg"
+    },
+    {
+      "id": 2,
+      "brandname": "ENDEAVOUR",
+      "price": "499",
+      "image": "/assets/featured-product/sweatshirt-2.jpg"
+    },
+    {
+      "id": 3,
+      "brandname": "ENDEAVOUR",
+      "price": "499",
+      "image": "/assets/featured-product/sweatshirt-3.jpg"
+    },
+    {
+      "id": 4,
+      "brandname": "ENDEAVOUR",
+      "price": "499",
+      "image": "/assets/featured-product/sweatshirt-4.jpg"
+    }
+  ],
+  "menswear": [
+    {
+      "id": 1,
+      "brandname": "adidas",
+      "price": "499",
+      "image": "/assets/mens-wear/t-shirt-1.webp"
+    },
+    {
+      "id": 2,
+      "brandname": "adidas",
+      "price": "499",
+      "image": "/assets/mens-wear/t-shirt-2.webp"
+    },
+    {
+      "id": 3,
+      "brandname": "adidas",
+      "price": "499",
+      "image": "/assets/mens-wear/t-shirt-3.webp"
+    },
+    {
+      "id": 4,
+      "brandname": "adidas",
+      "price": "499",
+      "image": "/assets/mens-wear/t-shirt-10.webp"
+    },
+    {
+      "id": 5,
+      "brandname": "adidas",
+      "price": "499",
+      "image": "/assets/mens-wear/t-shirt-5.webp"
+    },
+    {
+      "id": 6,
+      "brandname": "adidas",
+      "price": "499",
+      "image": "/assets/mens-wear/t-shirt-6.jpg"
+    },
+    {
+      "id": 7,
+      "brandname": "adidas",
+      "price": "499",
+      "image": "/assets/mens-wear/t-shirt-7.jpg"
+    },
+    {
+      "id": 8,
+      "brandname": "adidas",
+      "price": "679",
+      "image": "/assets/mens-wear/t-shirt-8.webp"
+    },
+    {
+      "id": 9,
+      "brandname": "adidas",
+      "price": "679",
+      "image": "/assets/mens-wear/t-shirt-4.jpg"
+    },
+    {
+      "id": 10,
+      "brandname": "adidas",
+      "price": "499",
+      "image": "/assets/mens-wear/t-shirt-12.webp"
+    },
+    {
+      "id": 11,
+      "brandname": "adidas",
+      "price": "499",
+      "image": "/assets/mens-wear/t-shirt-13.jpg"
+    },
+    {
+      "id": 12,
+      "brandname": "adidas",
+      "price": "499",
+      "image": "/assets/mens-wear/t-shirt-14.jpg"
+    },
+    {
+      "id": 13,
+      "brandname": "adidas",
+      "price": "499",
+      "image": "/assets/mens-wear/t-shirt-15.jpg"
+    },
+    {
+      "id": 14,
+      "brandname": "adidas",
+      "price": "499",
+      "image": "/assets/mens-wear/t-shirt-16.jpg"
+    },
+    {
+      "id": 15,
+      "brandname": "adidas",
+      "price": "499",
+      "image": "/assets/mens-wear/t-shirt-17.jpg"
+    },
+    {
+      "id": 16,
+      "brandname": "adidas",
+      "price": "499",
+      "image": "/assets/mens-wear/t-shirt-18.jpg"
+    },
+    {
+      "id": 17,
+      "brandname": "adidas",
+      "price": "499",
+      "image": "/assets/mens-wear/t-shirt-19.jpg"
+    },
+    {
+      "id": 18,
+      "brandname": "adidas",
+      "price": "499",
+      "image": "/assets/mens-wear/t-shirt-20.jpg"
+    },
+    {
+      "id": 19,
+      "brandname": "adidas",
+      "price": "499",
+      "image": "/assets/mens-wear/t-shirt-21.jpg"
+    },
+    {
+      "id": 20,
+      "brandname": "adidas",
+      "price": "499",
+      "image": "/assets/mens-wear/t-shirt-22.jpg"
+    },
+    {
+      "id": 21,
+      "brandname": "adidas",
+      "price": "489",
+      "image": "/assets/mens-wear/t-sh.jpg"
+    },
+    {
+      "id": 22,
+      "brandname": "adidas",
+      "price": "499",
+      "image": "/assets/mens-wear/t-shirt-23.jpg"
+    },
+    {
+      "id": 23,
+      "brandname": "adidas",
+      "price": "499",
+      "image": "/assets/mens-wear/t-shirt-9.jpg"
+    },
+    {
+      "id": 23,
+      "brandname": "adidas",
+      "price": "499",
+      "image": "/assets/mens-wear/t-shirt-11.jpg"
+    }
+  ],
+  "traditional-saree": [
+    {
+      "id": 1,
+      "price": "1289",
+      "brandname": "Shivshahi Paithani",
+      "image": "/assets/saree/saree-1.jpg"
+    },
+    {
+      "id": 2,
+      "price": "1299",
+      "brandname": "Shivshahi Paithani",
+      "image": "/assets/saree/saree-2.webp"
+    },
+    {
+      "id": 3,
+      "price": "1459",
+      "brandname": "Shivshahi Paithani",
+      "image": "/assets/saree/saree-3.webp"
+    },
+    {
+      "id": 4,
+      "price": "1569",
+      "brandname": "Shivshahi Paithani",
+      "image": "/assets/saree/saree-5.webp"
+    },
+    {
+      "id": 5,
+      "price": "569",
+      "brandname": "Shivshahi Paithani",
+      "image": "/assets/saree/saree-7.jpg"
+    },
+    {
+      "id": 6,
+      "price": "1139",
+      "brandname": "Shivshahi Paithani",
+      "image": "/assets/saree/saree-8.jpg"
+    },
+    {
+      "id": 7,
+      "price": "2169",
+      "brandname": "Shivshahi Paithani",
+      "image": "/assets/saree/saree-9.jpg"
+    },
+    {
+      "id": 8,
+      "price": "3160",
+      "brandname": "Shivshahi Paithani",
+      "image": "/assets/saree/saree-10.webp"
+    },
+    {
+      "id": 9,
+      "price": "1549",
+      "brandname": "Shivshahi Paithani",
+      "image": "/assets/saree/saree-11.jpg"
+    },
+    {
+      "id": 10,
+      "price": "1830",
+      "brandname": "Shivshahi Paithani",
+      "image": "/assets/saree/saree-12.webp"
+    },
+    {
+      "id": 11,
+      "price": "1782",
+      "brandname": "Shivshahi Paithani",
+      "image": "/assets/saree/saree-25.jpg"
+    },
+    {
+      "id": 12,
+      "price": "1169",
+      "brandname": "Shivshahi Paithani",
+      "image": "/assets/saree/saree-14.jpg"
+    },
+    {
+      "id": 13,
+      "price": "3189",
+      "brandname": "Shivshahi Paithani",
+      "image": "/assets/saree/saree-15.webp"
+    },
+    {
+      "id": 14,
+      "price": "2100",
+      "brandname": "Shivshahi Paithani",
+      "image": "/assets/saree/saree-16.jpg"
+    },
+    {
+      "id": 15,
+      "price": "1865",
+      "brandname": "Shivshahi Paithani",
+      "image": "/assets/saree/saree-17.jpg"
+    },
+    {
+      "id": 16,
+      "price": "869",
+      "brandname": "Shivshahi Paithani",
+      "image": "/assets/saree/saree-18.jpeg"
+    },
+    {
+      "id": 17,
+      "price": "2369",
+      "brandname": "Shivshahi Paithani",
+      "image": "/assets/saree/saree-19.jpg"
+    },
+    {
+      "id": 18,
+      "price": "1569",
+      "brandname": "Shivshahi Paithani",
+      "image": "/assets/saree/saree-20.jpg"
+    },
+    {
+      "id": 19,
+      "price": "869",
+      "brandname": "Shivshahi Paithani",
+      "image": "/assets/saree/saree-21.webp"
+    },
+    {
+      "id": 20,
+      "price": "1263",
+      "brandname": "Shivshahi Paithani",
+      "image": "/assets/saree/saree-22.webp"
+    },
+    {
+      "id": 21,
+      "price": "1263",
+      "brandname": "Shivshahi Paithani",
+      "image": "/assets/saree/saree-23.jpg"
+    },
+    {
+      "id": 22,
+      "price": "1263",
+      "brandname": "Shivshahi Paithani",
+      "image": "/assets/saree/saree-29.jpg"
+    },
+    {
+      "id": 23,
+      "price": "1263",
+      "brandname": "Shivshahi Paithani",
+      "image": "/assets/saree/saree-27.webp"
+    },
+    {
+      "id": 24,
+      "price": "1263",
+      "brandname": "Shivshahi Paithani",
+      "image": "/assets/saree/saree-30.jpg"
+    }
+  ],
+  "register-user": [
+    {
+      "name": "vaishnavi Raj Kanase",
+      "email": "vaishnavikanase@gmail.com",
+      "password": "Raj@123",
+      "id": 1
+    },
+    {
+      "name": "Ishwari Sitaram kanase",
+      "email": "ishwarikanase@gmail.com",
+      "password": "Ish@123",
+      "id": 2
+    },
+    {
+      "name": "vaishnavi Eknath Hadawale",
+      "email": "Vaishnavi.hadawale1@gmail.com",
+      "password": "Vaish@123",
+      "id": 3
+    },
+    {
+      "name": "Maheshwari kadam",
+      "email": "Maheshwari@gmail.com",
+      "password": "Maa@123",
+      "id": 4
+    },
+    {
+      "name": "Maheshwari kadam",
+      "email": "Maheshwari@gmail.com",
+      "password": "Mah@123",
+      "id": 5
+    },
+    {
+      "name": "Maheshwari kadam",
+      "email": "Maheshwari@gmail.com",
+      "password": "Mah@123",
+      "id": 6
+    },
+    {
+      "name": "Maheshwari kadam",
+      "email": "Maheshwari@gmail.com",
+      "password": "Mah@123",
+      "id": 7
+    },
+    {
+      "name": "Maheshwari kadam",
+      "email": "Maheshwari@gmail.com",
+      "password": "Mah@123",
+      "id": 8
+    },
+    {
+      "name": "Vaishnavi Raj Kanase",
+      "email": "vaishnavi.hadawale1@gmail.com",
+      "password": "Vaish@123",
+      "id": 9
+    },
+    {
+      "name": "Pratiksha Gadage",
+      "email": "pratiksha123@gmail.com",
+      "password": "Prat@1234",
+      "id": 10
+    },
+    {
+      "name": "Asha Eknath Hadawale",
+      "email": "asha123@gmail.com",
+      "password": "Asha@123",
+      "id": 11
+    },
+    {
+      "name": "Kiran balaso panmand",
+      "email": "kiranPanmand.1@gmail.com",
+      "password": "Kiran@123",
+      "id": 12
+    }
+  ],
+  "womendres": [
+    {
+      "id": "1",
+      "image": "assets/kurta-sets/kurta-set-1.jpg",
+      "Productname": "Avasa",
+      "price": "950"
+    },
+    {
+      "id": "2",
+      "image": "assets/kurta-sets/kurta-set-2.webp",
+      "Productname": "Avasa",
+      "price": "900"
+    },
+    {
+      "id": "3",
+      "image": "assets/kurta-sets/kurta-set-3.webp",
+      "Productname": "Avasa",
+      "price": "850"
+    },
+    {
+      "id": "4",
+      "image": "assets/kurta-sets/kurta-set-4.webp",
+      "Productname": "Avasa",
+      "price": "1200"
+    },
+    {
+      "id": "5",
+      "image": "assets/kurta-sets/kurta-set-5.jpg",
+      "Productname": "Avasa",
+      "price": "690"
+    },
+    {
+      "id": "6",
+      "image": "assets/kurta-sets/kurta-set-6.webp",
+      "Productname": "Avasa",
+      "price": "1180"
+    },
+    {
+      "id": "7",
+      "image": "assets/kurta-sets/kurta-set-7.jpg",
+      "Productname": "Avasa",
+      "price": "997"
+    },
+    {
+      "id": "8",
+      "image": "assets/kurta-sets/kurta-set-8.webp",
+      "Productname": "Avasa",
+      "price": "1500"
+    },
+    {
+      "id": "9",
+      "image": "assets/kurta-sets/kurta-set-9.webp",
+      "Productname": "Avasa",
+      "price": "1450"
+    },
+    {
+      "id": "10",
+      "image": "assets/kurta-sets/kurta-set-10.jpg",
+      "Productname": "Avasa",
+      "price": "790"
+    },
+    {
+      "id": "11",
+      "image": "assets/kurta-sets/kurta-set-11.webp",
+      "Productname": "Avasa",
+      "price": "790"
+    },
+    {
+      "id": "12",
+      "image": "assets/kurta-sets/kurta-set-12.webp",
+      "Productname": "Avasa",
+      "price": "790"
+    }
+  ],
+  "cartproductdetail": [
+    {
+      "image": "assets/kurta-sets/kurta-set-3.webp",
+      "Productname": "Avasa",
+      "price": "850",
+      "quantity": "1",
+      "cartby": "vaishnavikanase@gmail.com",
+      "productId": "3",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "brandname": "adidas",
+      "price": "499",
+      "image": "/assets/mens-wear/t-shirt-3.webp",
+      "cartby": "vaishnavikanase@gmail.com",
+      "quantity": "1",
+      "size": "XXl"
+    }
+  ],
+  "purchasehistoryofuser": [
+    {
+      "image": "assets/kurta-sets/kurta-set-3.webp",
+      "Productname": "Avasa",
+      "price": "850",
+      "quantity": "1",
+      "cartby": "vaishnavikanase@gmail.com",
+      "productId": "3",
+      "address": "Pune",
+      "customername": "Vaishnavi Raj Kanase",
+      "id": 1
+    },
+    {
+      "brandname": "adidas",
+      "price": "499",
+      "image": "/assets/mens-wear/t-shirt-3.webp",
+      "cartby": "vaishnavikanase@gmail.com",
+      "quantity": "1",
+      "size": "XXl",
+      "address": "Pune",
+      "customername": "Vaishnavi Raj Kanase",
+      "id": 2
+    }
+  ]
+}
