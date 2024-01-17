@@ -15,9 +15,11 @@ import { MenkurtaSet } from "./component/menkurtaset/menkurtaset";
 import { WomensEthenicWear } from "./component/detail-women-kurta-set/kurta-set";
 import { ProductPurchase } from "./component/productpurchase/productpurchase";
 import { MyOrder } from "./component/myorder/myorder";
+import { PrivateRoute } from "./component/auth/ProtectedRoute";
+
 function App() {
   return (
-    <div>
+    <>
       <Navbar />
 
       <Routes>
@@ -25,8 +27,7 @@ function App() {
         <Route path="/menswear" element={<MensWear />} />
         <Route path="/womenswear" element={<ShopForWomen />} />
         <Route path="/singleProductSaree" element={<SareeDetail />} />
-        <Route path="/cart" element={<Cart />} />
-        <Route path="/shop" element={<Shop />} />
+
         <Route path="/singleproduct" element={<SingleProduct />} />
         <Route path="/register" element={<Register />} />
         <Route path="/login" element={<Login />} />
@@ -34,9 +35,18 @@ function App() {
         <Route path="/traditionalformen" element={<MenkurtaSet />} />
         <Route path="/womenethenicwear" element={<WomensEthenicWear />} />
         <Route path="/productpurchase" element={<ProductPurchase />} />
+        <Route path="/shop" element={<Shop />} />
         <Route path="/myorder" element={<MyOrder />} />
+        <Route path="cart" element={<Cart />} />
+        {/* <Route>
+          <PrivateRoute
+            path="/cart"
+            component={Cart}
+            auth={false}
+          ></PrivateRoute>
+        </Route> */}
       </Routes>
-    </div>
+    </>
   );
 }
 

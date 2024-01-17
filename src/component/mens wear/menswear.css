@@ -1,34 +1,31 @@
 #mens-product {
-display: flex;
-justify-content: space-between;
-flex-wrap: wrap;
-width: 100%;
-
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 100%;
 }
-#mens-product .product-container{
-    width: 300px;
-    height: 400px;
-    display: flex;
-    margin: 25px 20px;
-    justify-content: center;
-    flex-direction: column;
-    align-items: center;
-    border: 1px solid grey;
-    border-radius: 15px;
-}
-
-#mens-product .product-container img{
-    border-radius: 10px;
-width: 250px;
-height: 300px;
-display: flex;
-justify-content: center;
-align-items: center;
-flex-direction: column;
+#mens-product .product-container {
+  width: 300px;
+  height: 400px;
+  display: flex;
+  margin: 25px 20px;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid grey;
+  border-radius: 15px;
 }
 
-#mens-product .product-container span{
-    text-align: start ;
+#mens-product .product-container img {
+  border-radius: 10px;
+  width: 250px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
-
+#mens-product .product-container span {
+  text-align: start;
+}

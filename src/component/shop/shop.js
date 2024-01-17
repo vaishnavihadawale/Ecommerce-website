@@ -27,14 +27,14 @@ export const Shop = () => {
         <div className="banner-box">
           <img src="/assets/banner/banner-2.jpg"></img>
           <h1>Women Dresses</h1>
-          <h2>The best classic dress for Women at amazon</h2>
+          <h2>The best classic  for women at amora</h2>
           <button onClick={goToDressWear}>Learn More</button>
         </div>
         <div className="banner-box">
           <img src="/assets/banner/banner-3.jpg"></img>
           <h1 className="text-left">Men Clothing</h1>
           <h2 className="text-align">
-            The best classic dress for Women at amazon
+            The best classic dress for men at amora
           </h2>
           <button onClick={goToMensWear} className="button-left">
             Learn More
@@ -53,7 +53,7 @@ export const Shop = () => {
           <img src="/assets/banner/kurtas.webp"></img>
           <h1 className="text-left">Men Clothing</h1>
           <h2 className="text-align">
-            The best classic dress for Women at amazon
+            The best classic dress for men at amora
           </h2>
           <button onClick={goToMenTraditional} className="button-left">Learn More</button>
         </div>

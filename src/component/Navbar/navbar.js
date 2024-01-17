@@ -43,12 +43,12 @@ export const Navbar = () => {
         <ul id="navbar">
           <li>
             <a onClick={goToHome} className="active" href="#">
-              HOME
+              Home
             </a>
           </li>
           <li>
             <a onClick={goToShop} href="#">
-              SHOP
+              Shop
             </a>
           </li>
           {isLoggedIn == null && (
@@ -67,23 +67,23 @@ export const Navbar = () => {
           )}
           <li>
             <a href="#" onClick={goToMyOrder}>
-              My ORDER
+              My Order
             </a>
           </li>
-
-          <li>
-            <a href="#" onClick={goToLogout}>
-              Logout
-            </a>
-          </li>
-
+          {isLoggedIn !== null && (
+            <li>
+              <a href="#" onClick={goToLogout}>
+                Logout
+              </a>
+            </li>
+          )}
           <li>
             <a href="#" onClick={goToCart}>
               <RiShoppingBagLine fontSize={26} />
             </a>
           </li>
 
-          <li className="dropdown">
+          {/* <li className="dropdown">
             <a href="#">
               <CgProfile fontSize={26} />
             </a>
@@ -91,7 +91,7 @@ export const Navbar = () => {
               <a href="#">Name</a>
               <a href="Logout"></a>
             </li>
-          </li>
+          </li> */}
         </ul>
       </div>
     </div>

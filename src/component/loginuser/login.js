@@ -4,11 +4,14 @@ import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { ValidationForLoginData } from "./validatelogin";
 
+
 export const Login = () => {
   const [logindata, setLoginData] = useState({
     email: "",
     password: "",
   });
+  
+
 const navigate=useNavigate();
 
 const gotoshop=()=>{
@@ -20,6 +23,7 @@ const gotoshop=()=>{
     setLoginData({ ...logindata, [name]: value });
   };
   const handleLogin = (e) => {
+    
     e.preventDefault();
     console.log("logindata of user", logindata);
 
@@ -44,6 +48,7 @@ const gotoshop=()=>{
       console.log("userfromfilter: ", resultentUser);
       if (resultentUser.length === 0) {
         alert("wrong credentials");
+
   } else {
         alert("Login Successfully");
         localStorage.setItem("CustomerEmail",resultentUser[0].email);

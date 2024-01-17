@@ -494,6 +494,92 @@
       "id": 4
     }
   ],
+  "men-casual-shirt":[
+    {
+      "id":"1",
+      "image":"assets/casual-shirts/casual-shirt-2.webp",
+      "Productname":"GoBynd",
+      "Price":"1235"
+      
+    },
+    {
+      "id":"2",
+      "image":"assets/casual-shirts/casual-shirt-3.webp",
+      "Productname":"GoBynd",
+      "Price":"1125"
+      
+    },
+    {
+      "id":"3",
+      "image":"assets/casual-shirts/casual-shirt-4.webp",
+      "Productname":"TryBuy",
+      "Price":"1935"
+      
+    },
+    {
+      "id":"4",
+      "image":"assets/casual-shirts/casual-shirt-5.webp",
+      "Productname":"GoBynd",
+      "Price":"1000"
+      
+    },
+    {
+      "id":"5",
+      "image":"assets/casual-shirts/casual-shirt-6.webp",
+      "Productname":"Pintrest",
+      "Price":"1155"
+      
+    },
+    {
+      "id":"6",
+      "image":"assets/casual-shirts/casual-shirt-7.jpg",
+      "Productname":"IndiaMart",
+      "Price":"1235"
+      
+    },
+    {
+      "id":"7",
+      "image":"assets/casual-shirts/casual-shirt-8.webp",
+      "Productname":"Limeroad",
+      "Price":"1600"
+      
+    },
+    {
+      "id":"8",
+      "image":"assets/casual-shirts/casual-shirt-9.webp",
+      "Productname":"TryBuy",
+      "Price":"935"
+      
+    },
+    {
+      "id":"9",
+      "image":"assets/casual-shirts/casual-shirt-10.webp",
+      "Productname":"TryBuy",
+      "Price":"1835"
+      
+    },
+    {
+      "id":"10",
+      "image":"assets/casual-shirts/casual-shirt-11.jpg",
+      "Productname":"GoBynd",
+      "Price":"1430"
+      
+    },
+    {
+      "id":"11",
+      "image":"assets/casual-shirts/casual-shirt-12.webp",
+      "Productname":"Pinterest",
+      "Price":"1805"
+      
+    },
+    {
+      "id":"12",
+      "image":"assets/casual-shirts/casual-shirt-13.jpg",
+      "Productname":"EagleBazaar",
+      "Price":"1035"
+      
+    }
+  ],
   "purchasehistoryofuser": [
     {
       "image": "assets/kurta-sets/kurta-set-3.webp",
