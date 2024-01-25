@@ -52,15 +52,17 @@ export const ProductPurchase = () => {
   };
 
   return (
+    
     <div id="purchase-section">
       <div className="purchase-product">
         <img src={purchasedata.image}></img>
       </div>
 
-      <h4>Product name : {purchasedata.brandname}</h4>
+      <h4>Product name : {purchasedata.Productname}</h4>
       <h4>Product Price : {purchasedata.price}</h4>
       <h4>ProductId:{purchasedata.productId}</h4>
       <h4>Quantity of product:{purchasedata.quantity}</h4>
+      <h4>Actual price:{purchasedata.quantity*purchasedata.price}</h4>
       <label>Customer Name</label>
       <br></br>
       <input type="text" value={customername} onChange={handleName}></input>
@@ -73,5 +75,6 @@ export const ProductPurchase = () => {
       <br></br>
       <button onClick={submitPurchaseHistory}>Place Order</button>
     </div>
+    
   );
 };

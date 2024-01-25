@@ -15,7 +15,7 @@ import { MenkurtaSet } from "./component/menkurtaset/menkurtaset";
 import { WomensEthenicWear } from "./component/detail-women-kurta-set/kurta-set";
 import { ProductPurchase } from "./component/productpurchase/productpurchase";
 import { MyOrder } from "./component/myorder/myorder";
-import { PrivateRoute } from "./component/auth/ProtectedRoute";
+import { CasualShirtInfo } from "./component/casualshirtsingleproduct/casualshirt";
 
 function App() {
   return (
@@ -37,7 +37,8 @@ function App() {
         <Route path="/productpurchase" element={<ProductPurchase />} />
         <Route path="/shop" element={<Shop />} />
         <Route path="/myorder" element={<MyOrder />} />
-        <Route path="cart" element={<Cart />} />
+        <Route path="/cart" element={<Cart />} />
+        <Route path="/singleshirtdetail" element={<CasualShirtInfo />}/>
         {/* <Route>
           <PrivateRoute
             path="/cart"

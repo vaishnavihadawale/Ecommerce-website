@@ -1,10 +1,12 @@
 #purchase-section{
-   
-    margin: 50px 200px;
+   width: 500px;
+   height: 600px;
+   background-color: antiquewhite;
+    margin: 0 auto;
 }
 #purchase-section .purchase-product img{
-width: 250px;
-height: 350px;
+width: 350px;
+height: 450px;
 border-radius: 10px;
 }
 #purchase-section  input{

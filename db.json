@@ -28,37 +28,37 @@
   "menswear": [
     {
       "id": 1,
-      "brandname": "adidas",
+      "brandname": "Roadster",
       "price": "499",
       "image": "/assets/mens-wear/t-shirt-1.webp"
     },
     {
       "id": 2,
-      "brandname": "adidas",
+      "brandname": "Elibolz",
       "price": "499",
       "image": "/assets/mens-wear/t-shirt-2.webp"
     },
     {
       "id": 3,
-      "brandname": "adidas",
+      "brandname": "Stormborn",
       "price": "499",
       "image": "/assets/mens-wear/t-shirt-3.webp"
     },
     {
       "id": 4,
-      "brandname": "adidas",
+      "brandname": "HERE&NOW",
       "price": "499",
       "image": "/assets/mens-wear/t-shirt-10.webp"
     },
     {
       "id": 5,
-      "brandname": "adidas",
+      "brandname": "Urbano Fashion",
       "price": "499",
       "image": "/assets/mens-wear/t-shirt-5.webp"
     },
     {
       "id": 6,
-      "brandname": "adidas",
+      "brandname": "HERE&NOW",
       "price": "499",
       "image": "/assets/mens-wear/t-shirt-6.jpg"
     },
@@ -70,25 +70,25 @@
     },
     {
       "id": 8,
-      "brandname": "adidas",
+      "brandname": "Harvard",
       "price": "679",
       "image": "/assets/mens-wear/t-shirt-8.webp"
     },
     {
       "id": 9,
-      "brandname": "adidas",
+      "brandname": "DILLINGER",
       "price": "679",
       "image": "/assets/mens-wear/t-shirt-4.jpg"
     },
     {
       "id": 10,
-      "brandname": "adidas",
+      "brandname": "BULLMER",
       "price": "499",
       "image": "/assets/mens-wear/t-shirt-12.webp"
     },
     {
       "id": 11,
-      "brandname": "adidas",
+      "brandname": "Maniac",
       "price": "499",
       "image": "/assets/mens-wear/t-shirt-13.jpg"
     },
@@ -106,25 +106,25 @@
     },
     {
       "id": 14,
-      "brandname": "adidas",
+      "brandname": "Roadster",
       "price": "499",
       "image": "/assets/mens-wear/t-shirt-16.jpg"
     },
     {
       "id": 15,
-      "brandname": "adidas",
+      "brandname": "HERE&NOW",
       "price": "499",
       "image": "/assets/mens-wear/t-shirt-17.jpg"
     },
     {
       "id": 16,
-      "brandname": "adidas",
+      "brandname": "Roadster",
       "price": "499",
       "image": "/assets/mens-wear/t-shirt-18.jpg"
     },
     {
       "id": 17,
-      "brandname": "adidas",
+      "brandname": "Urbano Fashion",
       "price": "499",
       "image": "/assets/mens-wear/t-shirt-19.jpg"
     },
@@ -136,37 +136,37 @@
     },
     {
       "id": 19,
-      "brandname": "adidas",
+      "brandname": "Maniac",
       "price": "499",
       "image": "/assets/mens-wear/t-shirt-21.jpg"
     },
     {
       "id": 20,
-      "brandname": "adidas",
+      "brandname": "Puma",
       "price": "499",
       "image": "/assets/mens-wear/t-shirt-22.jpg"
     },
     {
       "id": 21,
-      "brandname": "adidas",
+      "brandname": "H&M",
       "price": "489",
       "image": "/assets/mens-wear/t-sh.jpg"
     },
     {
       "id": 22,
-      "brandname": "adidas",
+      "brandname": "Levis",
       "price": "499",
       "image": "/assets/mens-wear/t-shirt-23.jpg"
     },
     {
       "id": 23,
-      "brandname": "adidas",
+      "brandname": "Jockey",
       "price": "499",
       "image": "/assets/mens-wear/t-shirt-9.jpg"
     },
     {
       "id": 23,
-      "brandname": "adidas",
+      "brandname": "Van Heusen",
       "price": "499",
       "image": "/assets/mens-wear/t-shirt-11.jpg"
     }
@@ -394,50 +394,50 @@
   "womendres": [
     {
       "id": "1",
-      "image": "assets/kurta-sets/kurta-set-1.jpg",
-      "Productname": "Avasa",
+      "image": "assets/kurta-sets/kurta-set-14.webp",
+      "Productname": "kalini",
       "price": "950"
     },
     {
       "id": "2",
       "image": "assets/kurta-sets/kurta-set-2.webp",
-      "Productname": "Avasa",
+      "Productname": "Sangria",
       "price": "900"
     },
     {
       "id": "3",
       "image": "assets/kurta-sets/kurta-set-3.webp",
-      "Productname": "Avasa",
+      "Productname": "Anayna",
       "price": "850"
     },
     {
       "id": "4",
       "image": "assets/kurta-sets/kurta-set-4.webp",
-      "Productname": "Avasa",
+      "Productname": "Varanga",
       "price": "1200"
     },
     {
       "id": "5",
       "image": "assets/kurta-sets/kurta-set-5.jpg",
-      "Productname": "Avasa",
+      "Productname": "Indo Era",
       "price": "690"
     },
     {
       "id": "6",
       "image": "assets/kurta-sets/kurta-set-6.webp",
-      "Productname": "Avasa",
+      "Productname": "Anouk",
       "price": "1180"
     },
     {
       "id": "7",
       "image": "assets/kurta-sets/kurta-set-7.jpg",
-      "Productname": "Avasa",
+      "Productname": "Stylum",
       "price": "997"
     },
     {
       "id": "8",
       "image": "assets/kurta-sets/kurta-set-8.webp",
-      "Productname": "Avasa",
+      "Productname": "Libas",
       "price": "1500"
     },
     {
@@ -449,7 +449,7 @@
     {
       "id": "10",
       "image": "assets/kurta-sets/kurta-set-10.jpg",
-      "Productname": "Avasa",
+      "Productname": "Kalini",
       "price": "790"
     },
     {
@@ -461,20 +461,11 @@
     {
       "id": "12",
       "image": "assets/kurta-sets/kurta-set-12.webp",
-      "Productname": "Avasa",
+      "Productname": "Endo Era",
       "price": "790"
     }
   ],
   "cartproductdetail": [
-    {
-      "image": "assets/kurta-sets/kurta-set-3.webp",
-      "Productname": "Avasa",
-      "price": "850",
-      "quantity": "1",
-      "cartby": "vaishnavikanase@gmail.com",
-      "productId": "3",
-      "id": 1
-    },
     {
       "id": 3,
       "brandname": "adidas",
@@ -482,102 +473,110 @@
       "image": "/assets/mens-wear/t-shirt-3.webp",
       "cartby": "vaishnavikanase@gmail.com",
       "quantity": "1",
-      "size": "XXl"
+      "size": "XL"
     },
     {
-      "image": "assets/kurta-sets/kurta-set-4.webp",
-      "Productname": "Avasa",
-      "price": "1200",
-      "quantity": "3",
+      "image": "assets/kurta-sets/kurta-set-14.webp",
+      "Productname": "kalini",
+      "price": "950",
+      "size": "S",
+      "quantity": "2",
       "cartby": "vaishnavikanase@gmail.com",
-      "productId": "4",
-      "id": 4
+      "productId": "1",
+      "id": 7
+    },
+    {
+      "price": "1299",
+      "brandname": "Shivshahi Paithani",
+      "image": "/assets/saree/saree-2.webp",
+      "quantity": "1",
+      "cartby": "vaishnavikanase@gmail.com",
+      "productId": 2,
+      "id": 8
+    },
+    {
+      "image": "assets/kurta-sets/kurta-set-2.webp",
+      "Productname": "Sangria",
+      "price": "900",
+      "size": "M",
+      "quantity": "1",
+      "cartby": "vaishnavikanase@gmail.com",
+      "productId": "2",
+      "id": 9
     }
   ],
-  "men-casual-shirt":[
+  "men-casual-shirt": [
     {
-      "id":"1",
-      "image":"assets/casual-shirts/casual-shirt-2.webp",
-      "Productname":"GoBynd",
-      "Price":"1235"
-      
+      "id": "1",
+      "image": "assets/casual-shirts/casual-shirt-2.webp",
+      "Productname": "GoBynd",
+      "Price": "1235"
     },
     {
-      "id":"2",
-      "image":"assets/casual-shirts/casual-shirt-3.webp",
-      "Productname":"GoBynd",
-      "Price":"1125"
-      
+      "id": "2",
+      "image": "assets/casual-shirts/casual-shirt-3.webp",
+      "Productname": "GoBynd",
+      "Price": "1125"
     },
     {
-      "id":"3",
-      "image":"assets/casual-shirts/casual-shirt-4.webp",
-      "Productname":"TryBuy",
-      "Price":"1935"
-      
+      "id": "3",
+      "image": "assets/casual-shirts/casual-shirt-4.webp",
+      "Productname": "TryBuy",
+      "Price": "1935"
     },
     {
-      "id":"4",
-      "image":"assets/casual-shirts/casual-shirt-5.webp",
-      "Productname":"GoBynd",
-      "Price":"1000"
-      
+      "id": "4",
+      "image": "assets/casual-shirts/casual-shirt-5.webp",
+      "Productname": "GoBynd",
+      "Price": "1000"
     },
     {
-      "id":"5",
-      "image":"assets/casual-shirts/casual-shirt-6.webp",
-      "Productname":"Pintrest",
-      "Price":"1155"
-      
+      "id": "5",
+      "image": "assets/casual-shirts/casual-shirt-6.webp",
+      "Productname": "Pintrest",
+      "Price": "1155"
     },
     {
-      "id":"6",
-      "image":"assets/casual-shirts/casual-shirt-7.jpg",
-      "Productname":"IndiaMart",
-      "Price":"1235"
-      
+      "id": "6",
+      "image": "assets/casual-shirts/casual-shirt-7.jpg",
+      "Productname": "IndiaMart",
+      "Price": "1235"
     },
     {
-      "id":"7",
-      "image":"assets/casual-shirts/casual-shirt-8.webp",
-      "Productname":"Limeroad",
-      "Price":"1600"
-      
+      "id": "7",
+      "image": "assets/casual-shirts/casual-shirt-8.webp",
+      "Productname": "Limeroad",
+      "Price": "1600"
     },
     {
-      "id":"8",
-      "image":"assets/casual-shirts/casual-shirt-9.webp",
-      "Productname":"TryBuy",
-      "Price":"935"
-      
+      "id": "8",
+      "image": "assets/casual-shirts/casual-shirt-9.webp",
+      "Productname": "TryBuy",
+      "Price": "935"
     },
     {
-      "id":"9",
-      "image":"assets/casual-shirts/casual-shirt-10.webp",
-      "Productname":"TryBuy",
-      "Price":"1835"
-      
+      "id": "9",
+      "image": "assets/casual-shirts/casual-shirt-10.webp",
+      "Productname": "TryBuy",
+      "Price": "1835"
     },
     {
-      "id":"10",
-      "image":"assets/casual-shirts/casual-shirt-11.jpg",
-      "Productname":"GoBynd",
-      "Price":"1430"
-      
+      "id": "10",
+      "image": "assets/casual-shirts/casual-shirt-11.jpg",
+      "Productname": "GoBynd",
+      "Price": "1430"
     },
     {
-      "id":"11",
-      "image":"assets/casual-shirts/casual-shirt-12.webp",
-      "Productname":"Pinterest",
-      "Price":"1805"
-      
+      "id": "11",
+      "image": "assets/casual-shirts/casual-shirt-12.webp",
+      "Productname": "Pinterest",
+      "Price": "1805"
     },
     {
-      "id":"12",
-      "image":"assets/casual-shirts/casual-shirt-13.jpg",
-      "Productname":"EagleBazaar",
-      "Price":"1035"
-      
+      "id": "12",
+      "image": "assets/casual-shirts/casual-shirt-13.jpg",
+      "Productname": "EagleBazaar",
+      "Price": "1035"
     }
   ],
   "purchasehistoryofuser": [
@@ -613,6 +612,17 @@
       "address": "Pune",
       "customername": "Vaishnavi Raj Kanase",
       "id": 3
+    },
+    {
+      "image": "assets/kurta-sets/kurta-set-3.webp",
+      "Productname": "Avasa",
+      "price": "850",
+      "quantity": "1",
+      "cartby": "vaishnavikanase@gmail.com",
+      "productId": "3",
+      "address": "Pune",
+      "customername": "Vaishnavi Raj Kanase",
+      "id": 4
     }
   ]
 }

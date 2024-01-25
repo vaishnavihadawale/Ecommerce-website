@@ -1,7 +1,17 @@
 import axios from "axios";
 import { useEffect, useState } from "react";
 import "./menscasualshirt.css";
+import { useNavigate } from "react-router-dom";
 export const MenkurtaSet = () => {
+
+    const navigate=useNavigate();
+
+    const singleShirtInfo=(shirtid)=>{
+        console.log('casual shirtid: ', shirtid);
+
+        navigate("/singleshirtdetail",{state:shirtid})
+
+    }
   const [dataofcasualshirt, setDataOfCasualShirt] = useState([]);
 
   useEffect(() => {
@@ -22,7 +32,7 @@ export const MenkurtaSet = () => {
         {dataofcasualshirt.map((casualshirt) => {
           return (
             <div className="product">
-              <img src={casualshirt.image}></img>
+              <img src={casualshirt.image} onClick={()=>{singleShirtInfo(casualshirt.id)}}></img>
 
               <span>{casualshirt.brandname}</span>
               <h5>{casualshirt.price}</h5>

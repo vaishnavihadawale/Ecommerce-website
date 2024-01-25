@@ -94,19 +94,38 @@ export const SingleProduct = () => {
     <div>
       <section id="single-product">
         <div className="image-container">
+
           <img src={tshirtdata.image}></img>
         </div>
         <div className="image-container">
-          <h1>Shop/T-shirt</h1>
-          <h2>Men's Fashion T-Shirt</h2>
-
-          <select onChange={handlesize}>
-            <option value={sizeofproduct}>Select Size</option>
-            <option value={sizeofproduct}>XL</option>
-            <option value={sizeofproduct}>XXl</option>
-            <option value={sizeofproduct}>Small</option>
-            <option value={sizeofproduct}>Large</option>
-          </select>
+          <h2>{tshirtdata.brandname}</h2>
+          <hr></hr>
+          <br></br>
+          <h2>₹{tshirtdata.price}</h2>
+          <p>inclusive of all taxes</p>
+          <br></br>
+          <h3>Select Size</h3>
+          
+          <div className="select-size">
+            <button className="round-button" onClick={() => handlesize("S")}>
+              S
+            </button>
+            <button className="round-button" onClick={() => handlesize("M")}>
+              M
+            </button>
+            <button className="round-button" onClick={() => handlesize("L")}>
+              L
+            </button>
+            <button className="round-button" onClick={() => handlesize("XL")}>
+              XL
+            </button>
+            <button
+              className="round-button"
+              onClick={() => handlesize("XXL")}
+            >
+              XXL
+            </button>
+          </div>
           <br></br>
           <input
             type="number"

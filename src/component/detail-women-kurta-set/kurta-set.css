@@ -1,0 +1,39 @@
+#section-div {
+  margin: 30px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+#section-div .divide-container {
+  width: 40%;
+  height: 700px;
+}
+#section-div .divide-container img {
+  width: 450px;
+  height: 550px;
+}
+#section-div .divide-container .select-size {
+  display: inline-flex;
+}
+#section-div .divide-container .select-size .round {
+  width: 50px !important;
+  height: 45px;
+  border-radius: 75%;
+  background-color: antiquewhite;
+  color: black;
+  padding: 10px;
+}
+#section-div .divide-container .add-to-cart{
+  width: 150px;
+  height: 40px;
+  border-radius: 5px;
+  font-size: 15px;
+  border: none;
+}
+#section-div .divide-container input{
+    width: 120px;
+    height: 40px;
+    margin-right: 10px;
+    padding: 10px !important;
+    text-align: center;
+}

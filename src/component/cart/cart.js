@@ -51,23 +51,25 @@ export const Cart = () => {
                 <img src={product.image}></img>
               </div>
               <div className="cart-container">
-                <h2>{product.brandname}</h2>
-              </div>
-              <div className="cart-container">
-                <h2>{product.size}</h2>
-              </div>
-              <div className="cart-container">
-                <h2>{product.quantity}</h2>
-              </div>
-              <div className="cart-container">
-                <h2 onClick={()=>goToPurchase(product.id)}>Purchase Now</h2>
-                <h2>{product.price}</h2>
-              </div>
-              <div className="cart-container">
+                <h3>{product.Productname}</h3>
+              
+              
+               <p>Size : {product.size}</p> 
+              
+              
+               <p>Quantity : {product.quantity}</p>
+               
+               <p>Price : {product.price}</p>
+                <button className="purchase-now" onClick={()=>goToPurchase(product.id)}>Purchase Now</button>
+                
+              
+                <div> 
                 <MdDelete
                   onClick={() => handleDelete(product.id)}
                   fontSize={36}
                 />
+                </div>
+                
               </div>
             </section>
           );
