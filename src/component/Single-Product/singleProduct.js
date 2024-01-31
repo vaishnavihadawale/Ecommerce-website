@@ -1,10 +1,10 @@
 import "./single-product.css";
-import { useLocation, useNavigate } from "react-router-dom";
+import { useLocation } from "react-router-dom";
 import { useEffect, useState } from "react";
 import axios from "axios";
 
 export const SingleProduct = () => {
-  const navigate = useNavigate();
+ 
   const location = useLocation("");
   console.log("location1234: ", location);
   const idOfEachTshirt = location.state;
@@ -16,9 +16,7 @@ export const SingleProduct = () => {
   const [quantityofproduct, setQuantityOfProduct] = useState();
   const [sizeofproduct, setSizeOfProduct] = useState();
   console.log("sizeofproduct: ", sizeofproduct);
-  const [tshirtdata, setTshirtData] = useState([
-    { brandname: "", price: "", image: "" },
-  ]);
+  const [tshirtdata, setTshirtData] = useState([{}]);
 
   const [savedata, setSaveData] = useState([]);
   tshirtdata.cartby = addtocartBy;
@@ -53,8 +51,8 @@ export const SingleProduct = () => {
     setQuantityOfProduct(e.target.value);
   };
 
-  const handlesize = (e) => {
-    setSizeOfProduct(e.target.value);
+  const handlesize = (value) => {
+    setSizeOfProduct(value);
   };
   console.log("After deletion of keytshirtdata: ", tshirtdata);
   console.log("setTshirtData12: ", tshirtdata);
@@ -67,8 +65,8 @@ export const SingleProduct = () => {
       alert("Please Register To Application");
     } else {
       console.log("tshirtdataview: ", tshirtdata);
-      savedata.productId = savedata.id;
-      delete savedata.id;
+      tshirtdata.productId = tshirtdata.id;
+      delete tshirtdata.id;
       let filterData = savedata.filter((data) => {
         if (
           data.productId === tshirtdata.productId &&
@@ -77,7 +75,7 @@ export const SingleProduct = () => {
           return data;
         }
       });
-      if (filterData.length == 0) {
+      if (filterData.length === 0) {
         axios({
           method: "post",
           url: "http://localhost:4000/cartproductdetail",
@@ -94,18 +92,18 @@ export const SingleProduct = () => {
     <div>
       <section id="single-product">
         <div className="image-container">
-
           <img src={tshirtdata.image}></img>
         </div>
         <div className="image-container">
-          <h2>{tshirtdata.brandname}</h2>
+          <h2>{tshirtdata.Productname}</h2>
+          <p>{tshirtdata.ProductDescription}</p>
           <hr></hr>
           <br></br>
           <h2>₹{tshirtdata.price}</h2>
           <p>inclusive of all taxes</p>
           <br></br>
           <h3>Select Size</h3>
-          
+          <br></br>
           <div className="select-size">
             <button className="round-button" onClick={() => handlesize("S")}>
               S
@@ -119,10 +117,7 @@ export const SingleProduct = () => {
             <button className="round-button" onClick={() => handlesize("XL")}>
               XL
             </button>
-            <button
-              className="round-button"
-              onClick={() => handlesize("XXL")}
-            >
+            <button className="round-button" onClick={() => handlesize("XXL")}>
               XXL
             </button>
           </div>
@@ -135,7 +130,7 @@ export const SingleProduct = () => {
             onChange={handlequantity}
           ></input>
           <button onClick={() => goToCart(tshirtdata.id)}>Add to Cart</button>
-          <h2>{tshirtdata.price}</h2>
+
           <h2>Product Details</h2>
           <span>
             Our t-shirts are crafted with 100% cotton fabric with features like

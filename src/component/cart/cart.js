@@ -5,7 +5,7 @@ import { MdDelete } from "react-icons/md";
 import { useNavigate } from "react-router-dom";
 
 export const Cart = () => {
-  const navigate=useNavigate();
+  const navigate = useNavigate();
   const [cartproduct, setCartProduct] = useState([{}]);
   let loginUser = localStorage.getItem("CustomerEmail");
   console.log("loginUser: ", loginUser);
@@ -36,8 +36,8 @@ export const Cart = () => {
     });
   };
 
-  const goToPurchase = (dataId) => {
-  navigate('/productpurchase',{state:dataId});
+  const goToPurchase = () => {
+    navigate("/productpurchase");
   };
   return (
     <div>
@@ -52,24 +52,17 @@ export const Cart = () => {
               </div>
               <div className="cart-container">
                 <h3>{product.Productname}</h3>
-              
-              
-               <p>Size : {product.size}</p> 
-              
-              
-               <p>Quantity : {product.quantity}</p>
-               
-               <p>Price : {product.price}</p>
-                <button className="purchase-now" onClick={()=>goToPurchase(product.id)}>Purchase Now</button>
-                
-              
-                <div> 
-                <MdDelete
-                  onClick={() => handleDelete(product.id)}
-                  fontSize={36}
-                />
+                <p>Size:{product.size}</p>
+                <p>Quantity : {product.quantity}</p>
+
+                <p>Price : {product.price}</p>
+
+                <div>
+                  <MdDelete
+                    onClick={() => handleDelete(product.id)}
+                    fontSize={36}
+                  />
                 </div>
-                
               </div>
             </section>
           );
@@ -77,6 +70,9 @@ export const Cart = () => {
           <h1>Nothing in cart</h1>;
         }
       })}
+      <button className="purchase-now" onClick={goToPurchase}>
+        Purchase Now
+      </button>
     </div>
   );
 };

@@ -2,25 +2,25 @@
   "featuredproduct": [
     {
       "id": 1,
-      "brandname": "ENDEAVOUR",
+      "Productname": "ENDEAVOUR",
       "price": "499",
       "image": "/assets/featured-product/sweatshirt.jpg"
     },
     {
       "id": 2,
-      "brandname": "ENDEAVOUR",
+      "Productname": "ENDEAVOUR",
       "price": "499",
       "image": "/assets/featured-product/sweatshirt-2.jpg"
     },
     {
       "id": 3,
-      "brandname": "ENDEAVOUR",
+      "Productname": "ENDEAVOUR",
       "price": "499",
       "image": "/assets/featured-product/sweatshirt-3.jpg"
     },
     {
       "id": 4,
-      "brandname": "ENDEAVOUR",
+      "Productname": "ENDEAVOUR",
       "price": "499",
       "image": "/assets/featured-product/sweatshirt-4.jpg"
     }
@@ -28,367 +28,331 @@
   "menswear": [
     {
       "id": 1,
-      "brandname": "Roadster",
+      "Productname": "Roadster",
       "price": "499",
-      "image": "/assets/mens-wear/t-shirt-1.webp"
+      "image": "/assets/mens-wear/t-shirt-1.webp",
+      "ProductDescription": "Printed Cotton T-Shirt"
     },
     {
       "id": 2,
-      "brandname": "Elibolz",
+      "Productname": "Elibolz",
       "price": "499",
-      "image": "/assets/mens-wear/t-shirt-2.webp"
+      "image": "/assets/mens-wear/t-shirt-2.webp",
+      "ProductDescription": "Printed Cotton T-Shirt"
     },
     {
       "id": 3,
-      "brandname": "Stormborn",
+      "Productname": "Stormborn",
       "price": "499",
-      "image": "/assets/mens-wear/t-shirt-3.webp"
+      "image": "/assets/mens-wear/t-shirt-3.webp",
+      "ProductDescription": "Printed Cotton T-Shirt"
     },
     {
       "id": 4,
-      "brandname": "HERE&NOW",
+      "Productname": "HERE&NOW",
       "price": "499",
-      "image": "/assets/mens-wear/t-shirt-10.webp"
+      "image": "/assets/mens-wear/t-shirt-10.webp",
+      "ProductDescription": "Printed Cotton T-Shirt"
     },
     {
       "id": 5,
-      "brandname": "Urbano Fashion",
+      "Productname": "Urbano Fashion",
       "price": "499",
-      "image": "/assets/mens-wear/t-shirt-5.webp"
+      "image": "/assets/mens-wear/t-shirt-5.webp",
+      "ProductDescription": "Printed Cotton T-Shirt"
     },
     {
       "id": 6,
-      "brandname": "HERE&NOW",
+      "Productname": "HERE&NOW",
       "price": "499",
-      "image": "/assets/mens-wear/t-shirt-6.jpg"
+      "image": "/assets/mens-wear/t-shirt-6.jpg",
+      "ProductDescription": "Printed Cotton T-Shirt"
     },
     {
       "id": 7,
-      "brandname": "adidas",
+      "Productname": "adidas",
       "price": "499",
-      "image": "/assets/mens-wear/t-shirt-7.jpg"
+      "image": "/assets/mens-wear/t-shirt-7.jpg",
+      "ProductDescription": "Printed Cotton T-Shirt"
     },
     {
       "id": 8,
-      "brandname": "Harvard",
+      "Productname": "Harvard",
       "price": "679",
-      "image": "/assets/mens-wear/t-shirt-8.webp"
+      "image": "/assets/mens-wear/t-shirt-8.webp",
+      "ProductDescription": "Printed Cotton T-Shirt"
     },
     {
       "id": 9,
-      "brandname": "DILLINGER",
+      "Productname": "DILLINGER",
       "price": "679",
-      "image": "/assets/mens-wear/t-shirt-4.jpg"
+      "image": "/assets/mens-wear/t-shirt-4.jpg",
+      "ProductDescription": "Printed Cotton T-Shirt"
     },
     {
       "id": 10,
-      "brandname": "BULLMER",
+      "Productname": "BULLMER",
       "price": "499",
-      "image": "/assets/mens-wear/t-shirt-12.webp"
+      "image": "/assets/mens-wear/t-shirt-12.webp",
+      "ProductDescription": "Printed Cotton T-Shirt"
     },
     {
       "id": 11,
-      "brandname": "Maniac",
+      "Productname": "Maniac",
       "price": "499",
-      "image": "/assets/mens-wear/t-shirt-13.jpg"
+      "image": "/assets/mens-wear/t-shirt-13.jpg",
+      "ProductDescription": "Printed Cotton T-Shirt"
     },
     {
       "id": 12,
-      "brandname": "adidas",
+      "Productname": "adidas",
       "price": "499",
-      "image": "/assets/mens-wear/t-shirt-14.jpg"
+      "image": "/assets/mens-wear/t-shirt-14.jpg",
+      "ProductDescription": "Printed Cotton T-Shirt"
     },
     {
       "id": 13,
-      "brandname": "adidas",
+      "Productname": "adidas",
       "price": "499",
-      "image": "/assets/mens-wear/t-shirt-15.jpg"
+      "image": "/assets/mens-wear/t-shirt-15.jpg",
+      "ProductDescription": "Printed Cotton T-Shirt"
     },
     {
       "id": 14,
-      "brandname": "Roadster",
+      "Productname": "Roadster",
       "price": "499",
-      "image": "/assets/mens-wear/t-shirt-16.jpg"
+      "image": "/assets/mens-wear/t-shirt-16.jpg",
+      "ProductDescription": "Printed Cotton T-Shirt"
     },
     {
       "id": 15,
-      "brandname": "HERE&NOW",
+      "Productname": "HERE&NOW",
       "price": "499",
-      "image": "/assets/mens-wear/t-shirt-17.jpg"
+      "image": "/assets/mens-wear/t-shirt-17.jpg",
+      "ProductDescription": "Printed Cotton T-Shirt"
     },
     {
       "id": 16,
-      "brandname": "Roadster",
+      "Productname": "Roadster",
       "price": "499",
-      "image": "/assets/mens-wear/t-shirt-18.jpg"
+      "image": "/assets/mens-wear/t-shirt-18.jpg",
+      "ProductDescription": "Printed Cotton T-Shirt"
     },
     {
       "id": 17,
-      "brandname": "Urbano Fashion",
+      "Productname": "Urbano Fashion",
       "price": "499",
-      "image": "/assets/mens-wear/t-shirt-19.jpg"
+      "image": "/assets/mens-wear/t-shirt-19.jpg",
+      "ProductDescription": "Printed Cotton T-Shirt"
     },
     {
       "id": 18,
-      "brandname": "adidas",
+      "Productname": "adidas",
       "price": "499",
-      "image": "/assets/mens-wear/t-shirt-20.jpg"
+      "image": "/assets/mens-wear/t-shirt-20.jpg",
+      "ProductDescription": "Printed Cotton T-Shirt"
     },
     {
       "id": 19,
-      "brandname": "Maniac",
+      "Productname": "Maniac",
       "price": "499",
-      "image": "/assets/mens-wear/t-shirt-21.jpg"
+      "image": "/assets/mens-wear/t-shirt-21.jpg",
+      "ProductDescription": "Printed Cotton T-Shirt"
     },
     {
       "id": 20,
-      "brandname": "Puma",
+      "Productname": "Puma",
       "price": "499",
-      "image": "/assets/mens-wear/t-shirt-22.jpg"
+      "image": "/assets/mens-wear/t-shirt-22.jpg",
+      "ProductDescription": "Printed Cotton T-Shirt"
     },
     {
       "id": 21,
-      "brandname": "H&M",
+      "Productname": "H&M",
       "price": "489",
-      "image": "/assets/mens-wear/t-sh.jpg"
+      "image": "/assets/mens-wear/t-sh.jpg",
+      "ProductDescription": "Printed Cotton T-Shirt"
     },
     {
       "id": 22,
-      "brandname": "Levis",
+      "Productname": "Levis",
       "price": "499",
-      "image": "/assets/mens-wear/t-shirt-23.jpg"
+      "image": "/assets/mens-wear/t-shirt-23.jpg",
+      "ProductDescription": "Printed Cotton T-Shirt"
     },
     {
       "id": 23,
-      "brandname": "Jockey",
+      "Productname": "Jockey",
       "price": "499",
-      "image": "/assets/mens-wear/t-shirt-9.jpg"
+      "image": "/assets/mens-wear/t-shirt-9.jpg",
+      "ProductDescription": "Printed Cotton T-Shirt"
     },
     {
-      "id": 23,
-      "brandname": "Van Heusen",
+      "id": 24,
+      "Productname": "Van Heusen",
       "price": "499",
-      "image": "/assets/mens-wear/t-shirt-11.jpg"
+      "image": "/assets/mens-wear/t-shirt-11.jpg",
+      "ProductDescription": "Printed Cotton T-Shirt"
     }
   ],
   "traditional-saree": [
     {
       "id": 1,
       "price": "1289",
-      "brandname": "Shivshahi Paithani",
+      "Productname": "Shivshahi Paithani",
       "image": "/assets/saree/saree-1.jpg"
     },
     {
       "id": 2,
       "price": "1299",
-      "brandname": "Shivshahi Paithani",
+      "Productname": "Shivshahi Paithani",
       "image": "/assets/saree/saree-2.webp"
     },
     {
       "id": 3,
       "price": "1459",
-      "brandname": "Shivshahi Paithani",
+      "Productname": "Shivshahi Paithani",
       "image": "/assets/saree/saree-3.webp"
     },
     {
       "id": 4,
       "price": "1569",
-      "brandname": "Shivshahi Paithani",
+      "Productname": "Shivshahi Paithani",
       "image": "/assets/saree/saree-5.webp"
     },
     {
       "id": 5,
       "price": "569",
-      "brandname": "Shivshahi Paithani",
+      "Productname": "Shivshahi Paithani",
       "image": "/assets/saree/saree-7.jpg"
     },
     {
       "id": 6,
       "price": "1139",
-      "brandname": "Shivshahi Paithani",
+      "Productname": "Shivshahi Paithani",
       "image": "/assets/saree/saree-8.jpg"
     },
     {
       "id": 7,
       "price": "2169",
-      "brandname": "Shivshahi Paithani",
+      "Productname": "Shivshahi Paithani",
       "image": "/assets/saree/saree-9.jpg"
     },
     {
       "id": 8,
       "price": "3160",
-      "brandname": "Shivshahi Paithani",
+      "Productname": "Shivshahi Paithani",
       "image": "/assets/saree/saree-10.webp"
     },
     {
       "id": 9,
       "price": "1549",
-      "brandname": "Shivshahi Paithani",
+      "Productname": "Shivshahi Paithani",
       "image": "/assets/saree/saree-11.jpg"
     },
     {
       "id": 10,
       "price": "1830",
-      "brandname": "Shivshahi Paithani",
+      "Productname": "Shivshahi Paithani",
       "image": "/assets/saree/saree-12.webp"
     },
     {
       "id": 11,
       "price": "1782",
-      "brandname": "Shivshahi Paithani",
+      "Productname": "Shivshahi Paithani",
       "image": "/assets/saree/saree-25.jpg"
     },
     {
       "id": 12,
       "price": "1169",
-      "brandname": "Shivshahi Paithani",
+      "Productname": "Shivshahi Paithani",
       "image": "/assets/saree/saree-14.jpg"
     },
     {
       "id": 13,
       "price": "3189",
-      "brandname": "Shivshahi Paithani",
+      "Productname": "Shivshahi Paithani",
       "image": "/assets/saree/saree-15.webp"
     },
     {
       "id": 14,
       "price": "2100",
-      "brandname": "Shivshahi Paithani",
+      "Productname": "Shivshahi Paithani",
       "image": "/assets/saree/saree-16.jpg"
     },
     {
       "id": 15,
       "price": "1865",
-      "brandname": "Shivshahi Paithani",
+      "Productname": "Shivshahi Paithani",
       "image": "/assets/saree/saree-17.jpg"
     },
     {
       "id": 16,
       "price": "869",
-      "brandname": "Shivshahi Paithani",
+      "Productname": "Shivshahi Paithani",
       "image": "/assets/saree/saree-18.jpeg"
     },
     {
       "id": 17,
       "price": "2369",
-      "brandname": "Shivshahi Paithani",
+      "Productname": "Shivshahi Paithani",
       "image": "/assets/saree/saree-19.jpg"
     },
     {
       "id": 18,
       "price": "1569",
-      "brandname": "Shivshahi Paithani",
+      "Productname": "Shivshahi Paithani",
       "image": "/assets/saree/saree-20.jpg"
     },
     {
       "id": 19,
       "price": "869",
-      "brandname": "Shivshahi Paithani",
+      "Productname": "Shivshahi Paithani",
       "image": "/assets/saree/saree-21.webp"
     },
     {
       "id": 20,
       "price": "1263",
-      "brandname": "Shivshahi Paithani",
+      "Productname": "Shivshahi Paithani",
       "image": "/assets/saree/saree-22.webp"
     },
     {
       "id": 21,
       "price": "1263",
-      "brandname": "Shivshahi Paithani",
+      "Productname": "Shivshahi Paithani",
       "image": "/assets/saree/saree-23.jpg"
     },
     {
       "id": 22,
       "price": "1263",
-      "brandname": "Shivshahi Paithani",
+      "Productname": "Shivshahi Paithani",
       "image": "/assets/saree/saree-29.jpg"
     },
     {
       "id": 23,
       "price": "1263",
-      "brandname": "Shivshahi Paithani",
+      "Productname": "Shivshahi Paithani",
       "image": "/assets/saree/saree-27.webp"
     },
     {
       "id": 24,
       "price": "1263",
-      "brandname": "Shivshahi Paithani",
+      "Productname": "Shivshahi Paithani",
       "image": "/assets/saree/saree-30.jpg"
     }
   ],
   "register-user": [
     {
-      "name": "vaishnavi Raj Kanase",
+      "name": "Vaishnavi Raj Kanase",
       "email": "vaishnavikanase@gmail.com",
-      "password": "Raj@123",
+      "password": "Vaishnavi@123",
       "id": 1
     },
     {
-      "name": "Ishwari Sitaram kanase",
-      "email": "ishwarikanase@gmail.com",
-      "password": "Ish@123",
+      "name": "Akshay Eknath Hadawale",
+      "email": "akshay.hadawale1@gmail.com",
+      "password": "Akshay@123",
       "id": 2
-    },
-    {
-      "name": "vaishnavi Eknath Hadawale",
-      "email": "Vaishnavi.hadawale1@gmail.com",
-      "password": "Vaish@123",
-      "id": 3
-    },
-    {
-      "name": "Maheshwari kadam",
-      "email": "Maheshwari@gmail.com",
-      "password": "Maa@123",
-      "id": 4
-    },
-    {
-      "name": "Maheshwari kadam",
-      "email": "Maheshwari@gmail.com",
-      "password": "Mah@123",
-      "id": 5
-    },
-    {
-      "name": "Maheshwari kadam",
-      "email": "Maheshwari@gmail.com",
-      "password": "Mah@123",
-      "id": 6
-    },
-    {
-      "name": "Maheshwari kadam",
-      "email": "Maheshwari@gmail.com",
-      "password": "Mah@123",
-      "id": 7
-    },
-    {
-      "name": "Maheshwari kadam",
-      "email": "Maheshwari@gmail.com",
-      "password": "Mah@123",
-      "id": 8
-    },
-    {
-      "name": "Vaishnavi Raj Kanase",
-      "email": "vaishnavi.hadawale1@gmail.com",
-      "password": "Vaish@123",
-      "id": 9
-    },
-    {
-      "name": "Pratiksha Gadage",
-      "email": "pratiksha123@gmail.com",
-      "password": "Prat@1234",
-      "id": 10
-    },
-    {
-      "name": "Asha Eknath Hadawale",
-      "email": "asha123@gmail.com",
-      "password": "Asha@123",
-      "id": 11
-    },
-    {
-      "name": "Kiran balaso panmand",
-      "email": "kiranPanmand.1@gmail.com",
-      "password": "Kiran@123",
-      "id": 12
     }
   ],
   "womendres": [
@@ -396,113 +360,85 @@
       "id": "1",
       "image": "assets/kurta-sets/kurta-set-14.webp",
       "Productname": "kalini",
-      "price": "950"
+      "price": "950",
+      "ProductDescription": "Shibori Dyed Regular Kurta with Trousers & Dupatta"
     },
     {
       "id": "2",
       "image": "assets/kurta-sets/kurta-set-2.webp",
       "Productname": "Sangria",
-      "price": "900"
+      "price": "900",
+      "ProductDescription": "Floral Embroidered Kurta With Palazzos & Dupatta"
     },
     {
       "id": "3",
       "image": "assets/kurta-sets/kurta-set-3.webp",
       "Productname": "Anayna",
-      "price": "850"
+      "price": "850",
+      "ProductDescription": "Ethnic Motifs Embroidered Sequined Kurta with Palazzos & Dupatta"
     },
     {
       "id": "4",
       "image": "assets/kurta-sets/kurta-set-4.webp",
       "Productname": "Varanga",
-      "price": "1200"
+      "price": "1200",
+      "ProductDescription": "Women Pink Floral Motifs Printed Kurta"
     },
     {
       "id": "5",
       "image": "assets/kurta-sets/kurta-set-5.jpg",
       "Productname": "Indo Era",
-      "price": "690"
+      "price": "690",
+      "ProductDescription": "Women  Ethnic Motifs Embroidered  Work Kurta with Trousers & Dupatta"
     },
     {
       "id": "6",
       "image": "assets/kurta-sets/kurta-set-6.webp",
       "Productname": "Anouk",
-      "price": "1180"
+      "price": "1180",
+      "ProductDescription": "Women Ethnic Motifs Yoke Design Thread Work Kurta with Trousers & With Dupatta"
     },
     {
       "id": "7",
       "image": "assets/kurta-sets/kurta-set-7.jpg",
       "Productname": "Stylum",
-      "price": "997"
+      "price": "997",
+      "ProductDescription": "Women Purple Yoke Design Kurta with Palazzos & With Dupatta"
     },
     {
       "id": "8",
       "image": "assets/kurta-sets/kurta-set-8.webp",
       "Productname": "Libas",
-      "price": "1500"
+      "price": "1500",
+      "ProductDescription": "Striped Thread Work Detailed Straight Kurta & Trouser With Dupatta"
     },
     {
       "id": "9",
       "image": "assets/kurta-sets/kurta-set-9.webp",
       "Productname": "Avasa",
-      "price": "1450"
+      "price": "1450",
+      "ProductDescription": "Women White Ethnic Motifs Embroidered Kurta with Trousers & With Dupatta"
     },
     {
       "id": "10",
       "image": "assets/kurta-sets/kurta-set-10.jpg",
       "Productname": "Kalini",
-      "price": "790"
+      "price": "790",
+      "ProductDescription": "Embroidered Regular Chanderi Silk Kurta with Trousers & Dupatta"
     },
     {
       "id": "11",
       "image": "assets/kurta-sets/kurta-set-11.webp",
       "Productname": "Avasa",
-      "price": "790"
+      "price": "790",
+      "ProductDescription": " Embroidered Panelled Thread Work Kurta with Trousers & Dupatta"
     },
     {
       "id": "12",
       "image": "assets/kurta-sets/kurta-set-12.webp",
       "Productname": "Endo Era",
-      "price": "790"
-    }
-  ],
-  "cartproductdetail": [
-    {
-      "id": 3,
-      "brandname": "adidas",
-      "price": "499",
-      "image": "/assets/mens-wear/t-shirt-3.webp",
-      "cartby": "vaishnavikanase@gmail.com",
-      "quantity": "1",
-      "size": "XL"
-    },
-    {
-      "image": "assets/kurta-sets/kurta-set-14.webp",
-      "Productname": "kalini",
-      "price": "950",
-      "size": "S",
-      "quantity": "2",
-      "cartby": "vaishnavikanase@gmail.com",
-      "productId": "1",
-      "id": 7
-    },
-    {
-      "price": "1299",
-      "brandname": "Shivshahi Paithani",
-      "image": "/assets/saree/saree-2.webp",
-      "quantity": "1",
-      "cartby": "vaishnavikanase@gmail.com",
-      "productId": 2,
-      "id": 8
-    },
-    {
-      "image": "assets/kurta-sets/kurta-set-2.webp",
-      "Productname": "Sangria",
-      "price": "900",
-      "size": "M",
-      "quantity": "1",
-      "cartby": "vaishnavikanase@gmail.com",
-      "productId": "2",
-      "id": 9
+      "price": "790",
+      "ProductDescription": "Floral cotton kurta with Trousers & dupatta"
     }
   ],
   "men-casual-shirt": [
@@ -579,50 +515,122 @@
       "Price": "1035"
     }
   ],
-  "purchasehistoryofuser": [
+  "cartproductdetail": [
     {
-      "image": "assets/kurta-sets/kurta-set-3.webp",
-      "Productname": "Avasa",
-      "price": "850",
-      "quantity": "1",
+      "Productname": "Stormborn",
+      "price": "499",
+      "image": "/assets/mens-wear/t-shirt-3.webp",
+      "ProductDescription": "Printed Cotton T-Shirt",
       "cartby": "vaishnavikanase@gmail.com",
-      "productId": "3",
-      "address": "Pune",
-      "customername": "Vaishnavi Raj Kanase",
+      "quantity": "1",
+      "size": "L",
+      "productId": 3,
       "id": 1
     },
     {
-      "brandname": "adidas",
-      "price": "499",
-      "image": "/assets/mens-wear/t-shirt-3.webp",
-      "cartby": "vaishnavikanase@gmail.com",
+      "image": "assets/kurta-sets/kurta-set-6.webp",
+      "Productname": "Anouk",
+      "price": "1180",
+      "ProductDescription": "Women Ethnic Motifs Yoke Design Thread Work Kurta with Trousers & With Dupatta",
+      "size": "L",
       "quantity": "1",
-      "size": "XXl",
-      "address": "Pune",
-      "customername": "Vaishnavi Raj Kanase",
+      "cartby": "akshay.hadawale1@gmail.com",
+      "productId": "6",
       "id": 2
     },
     {
-      "image": "assets/kurta-sets/kurta-set-4.webp",
-      "Productname": "Avasa",
-      "price": "1200",
-      "quantity": "3",
-      "cartby": "vaishnavikanase@gmail.com",
-      "productId": "4",
-      "address": "Pune",
-      "customername": "Vaishnavi Raj Kanase",
+      "price": "3189",
+      "Productname": "Shivshahi Paithani",
+      "image": "/assets/saree/saree-15.webp",
+      "quantity": "1",
+      "cartby": "akshay.hadawale1@gmail.com",
+      "productId": 13,
       "id": 3
     },
     {
-      "image": "assets/kurta-sets/kurta-set-3.webp",
-      "Productname": "Avasa",
-      "price": "850",
+      "image": "assets/kurta-sets/kurta-set-2.webp",
+      "Productname": "Sangria",
+      "price": "900",
+      "ProductDescription": "Floral Embroidered Kurta With Palazzos & Dupatta",
+      "size": "L",
       "quantity": "1",
-      "cartby": "vaishnavikanase@gmail.com",
-      "productId": "3",
-      "address": "Pune",
-      "customername": "Vaishnavi Raj Kanase",
+      "cartby": "akshay.hadawale1@gmail.com",
+      "productId": "2",
       "id": 4
+    },
+    {
+      "price": "869",
+      "Productname": "Shivshahi Paithani",
+      "image": "/assets/saree/saree-18.jpeg",
+      "quantity": "2",
+      "cartby": "akshay.hadawale1@gmail.com",
+      "productId": 16,
+      "id": 5
+    }
+  ],
+  "purchasehistoryofuser": [
+    {
+      "address": "Pune",
+      "mobile": "9511724243",
+      "customername": "Akshay Eknath Hadawale",
+      "state": "Maharashtra",
+      "pincode": "422411",
+      "purchaseproduct": [
+        {
+          "Productname": "Stormborn",
+          "price": "499",
+          "image": "/assets/mens-wear/t-shirt-3.webp",
+          "ProductDescription": "Printed Cotton T-Shirt",
+          "cartby": "vaishnavikanase@gmail.com",
+          "quantity": "1",
+          "size": "L",
+          "productId": 3,
+          "id": 1
+        },
+        {
+          "image": "assets/kurta-sets/kurta-set-6.webp",
+          "Productname": "Anouk",
+          "price": "1180",
+          "ProductDescription": "Women Ethnic Motifs Yoke Design Thread Work Kurta with Trousers & With Dupatta",
+          "size": "L",
+          "quantity": "1",
+          "cartby": "akshay.hadawale1@gmail.com",
+          "productId": "6",
+          "id": 2
+        },
+        {
+          "price": "3189",
+          "Productname": "Shivshahi Paithani",
+          "image": "/assets/saree/saree-15.webp",
+          "quantity": "1",
+          "cartby": "akshay.hadawale1@gmail.com",
+          "productId": 13,
+          "id": 3
+        },
+        {
+          "image": "assets/kurta-sets/kurta-set-2.webp",
+          "Productname": "Sangria",
+          "price": "900",
+          "ProductDescription": "Floral Embroidered Kurta With Palazzos & Dupatta",
+          "size": "L",
+          "quantity": "1",
+          "cartby": "akshay.hadawale1@gmail.com",
+          "productId": "2",
+          "id": 4
+        },
+        {
+          "price": "869",
+          "Productname": "Shivshahi Paithani",
+          "image": "/assets/saree/saree-18.jpeg",
+          "quantity": "2",
+          "cartby": "akshay.hadawale1@gmail.com",
+          "productId": 16,
+          "id": 5
+        }
+      ],
+      "TotalAmount": 6138,
+      "purchaseTime": "2024-01-30T13:13:22.426Z",
+      "id": 1
     }
   ]
 }

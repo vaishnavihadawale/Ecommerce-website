@@ -1,13 +1,16 @@
 #purchase-section{
-   width: 500px;
-   height: 600px;
-   background-color: antiquewhite;
-    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+   justify-content: center;
+   
 }
-#purchase-section .purchase-product img{
-width: 350px;
-height: 450px;
-border-radius: 10px;
+
+#purchase-section .purchase-product{
+   border: 1px solid grey;
+   margin-right:20px ;
+   padding: 10px;
+
 }
 #purchase-section  input{
     border: 1px solid grey;

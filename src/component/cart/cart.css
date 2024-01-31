@@ -2,7 +2,7 @@
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  width: 50%;
+  width: 45%;
   margin: 30px auto;
   align-items: center;
   /* border: 1px solid rgb(185, 170, 170); */
@@ -10,8 +10,7 @@
 }
 
 #cart-section .cart-container {
-  margin: auto;
-  /* width: 30%; */
+  width: 40%;
 }
 #cart-section .cart-container .purchase-now {
   width: 150px;

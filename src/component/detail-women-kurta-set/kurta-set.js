@@ -12,24 +12,28 @@ export const WomensEthenicWear = () => {
 
   const [kurtasetquantity, setKurtaSetQuantity] = useState();
   const [womendressdata, setWomenDressData] = useState([
+    
     {
       image: "",
       productname: "",
       price: "",
+      productdesc: "",
     },
   ]);
+  
   const [kurtasize, setKurtaSize] = useState();
   const handleSizeOfProduct = (value) => {
     console.log("value: ", value);
     setKurtaSize(value);
   };
   console.log("kurta set size", kurtasize);
-  let copyKurtaSize=kurtasize;
-  womendressdata.size=copyKurtaSize;
+  let copyKurtaSize = kurtasize;
+  womendressdata.size = copyKurtaSize;
   const [cartdata, setCartData] = useState([]);
 
   womendressdata.quantity = kurtasetquantity;
   womendressdata.cartby = loginuser;
+  console.log('womendressdata: ', womendressdata);
   console.log("cartdata: ", cartdata);
   useEffect(() => {
     if (kurtaSetId) {
@@ -80,7 +84,7 @@ export const WomensEthenicWear = () => {
       });
       console.log("resultantData: ", resultantData.length);
       console.log("resultantData: ", resultantData);
-      if (resultantData.length == 0) {
+      if (resultantData.length === 0) {
         axios({
           method: "post",
           url: " http://localhost:4000/cartproductdetail",
@@ -98,12 +102,11 @@ export const WomensEthenicWear = () => {
     <div>
       <section id="section-div">
         <div className="divide-container">
-          <img src={womendressdata.image}></img>
+          <img src={womendressdata.image} alt="kurta-set"></img>
         </div>
         <div className="divide-container">
           <h2>{womendressdata.Productname}</h2>
-          <p>Shibori Dyed Regular Kurta with Trousers & Dupatta</p>
-
+          <p>{womendressdata.ProductDescription}</p>
           <hr></hr>
           <br></br>
           <h2>₹{womendressdata.price}</h2>
